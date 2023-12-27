@@ -10,6 +10,7 @@ In this course the main aspect is learning the core syntax, work with arrays, mu
 - DOM and Events
 - HTTP and REST
 
+## Languages
 - JavaScript <img align="center" style="margin:0.5rem" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>
 - HTML <img align="center" style="margin:0.5rem" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>
 - CSS <img align="center" style="margin:0.5rem" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>
