@@ -1,4 +1,4 @@
-# [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) SoftUni JavaScript Advanced course
+# [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) SoftUni JS Front-End course
 
 ## 🧾Description 
 In this course the main aspect is learning the core syntax, work with arrays, multidimensional arrays, object, classes and function writing. More advanced conceptions like function context, explict binding, event loop, DOM tree manipulation and event handling. Main OOP principles with JavaScript.
